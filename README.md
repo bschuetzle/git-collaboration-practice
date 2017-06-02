@@ -1,2 +1,4 @@
-This is a read me file line by Cindy!
-This is also one.
+
+#Welcome to our project
+
+This will help you organize your life
